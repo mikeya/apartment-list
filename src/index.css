@@ -3,3 +3,14 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+form{
+  text-align: center;
+}
+
+table, form{
+  margin: 20px auto;
+}
+
+td, th{
+  padding-right:20px;
+}
